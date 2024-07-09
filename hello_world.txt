@@ -1,1 +1,2 @@
-yeaa whatever
+Hello!
+This is a sample file.
